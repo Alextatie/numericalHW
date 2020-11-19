@@ -1,6 +1,6 @@
 
 # Alex Tatievsky 317414506 #
-
+# https://github.com/Alextatie/numericalHW
 
 from numpy import array, zeros, diag, diagflat, dot, sum, all, shape, linalg,ones
 
